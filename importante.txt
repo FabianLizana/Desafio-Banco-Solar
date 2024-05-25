@@ -1,0 +1,18 @@
+1.Librerias Utilizadas:
+
+JQuery
+Bootstrap
+SCSS
+Axios
+Moment
+Bootstrap-icons
+Express
+pg
+Typewriter-effect
+Sweetalert2
+
+2. Uso un  "dev": "node --watch index.js".
+
+3. Uso un DB_CONNECT_STRING=postgres:( cual se llena con los campos correpondientes),
+dejo un ejemplo: DB_CONNECT_STRING=postgres://postgres:contraseña-correspondiente@localhost:host-que-use/postgres
+
